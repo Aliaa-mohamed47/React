@@ -9,21 +9,21 @@ function App() {
       name: "Grilled Chicken",
       description: "Delicious grilled chicken with herbs and spices.",
       price: 120,
-      image: "../images/meal-5.jpg"
+      image: "/images/meal-5.jpg"
     },
     {
       id: 2,
       name: "Margherita Pizza",
       description: "Classic pizza with tomato, mozzarella, and basil.",
       price: 80,
-      image: "../images/meal-1.jpg"
+      image: "/images/meal-1.jpg"
     },
     {
       id: 3,
       name: "Cheeseburger",
       description: "Juicy beef burger with cheese, lettuce, and tomato.",
       price: 60,
-      image: "../images/meal-3.jpg"
+      image: "/images/meal-3.jpg"
     }
   ];
 
