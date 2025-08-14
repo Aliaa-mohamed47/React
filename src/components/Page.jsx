@@ -10,7 +10,11 @@ export default function Page({ title, data }) {
       <h2 className="text-center text-3xl font-bold mb-8 text-white">
         {title}
       </h2>
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid gap-6 
+                      grid-cols-1 
+                      sm:grid-cols-2 
+                      md:grid-cols-3 
+                      lg:grid-cols-4">
         {repeatedData.map((product, index) => (
           <ProductCard key={index} product={product} />
         ))}
