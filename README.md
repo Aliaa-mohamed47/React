@@ -1,12 +1,21 @@
-# React + Vite
+# React Task Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> This project was created as part of a **task assigned to me**, and it is my **first project using React.js**.
 
-Currently, two official plugins are available:
+## Project Description
+This project displays a list of dishes with details for each dish: name, description, original price, discounted price, and image. Key features include:  
+- Cards designed with **Tailwind CSS**  
+- Fully **responsive** layout for all screen sizes  
+- **Hover effect** on desktop and **touch effect** on mobile  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Tailwind CSS
+- Vercel for deployment
 
-## Expanding the ESLint configuration
+## Live Demo
+Check out the live demo here:  
+[Live Demo](https://react-phi-murex.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Notes
+- This project is my **first experience with React**, focusing on learning how to work with components, props, and Tailwind CSS.
